@@ -1,6 +1,6 @@
 <!-- DARK THEME HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sarim!+👋;AI+Engineer+%7C+Data+Analyst+%7C+Automation+Developer;I+love+building+cool+%26+useful+things.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Sarim!+👋;AI+Engineer+%7C+Data+Analyst+%7C+Automation+Developer;I+love+building+cool+%26+useful+things.">
 </p>
 
 ---
