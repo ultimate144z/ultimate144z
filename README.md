@@ -5,7 +5,7 @@
 
 ---
 
-# 👋 Hi, I’m Sarim
+# Hi, I’m Sarim
 
 I work on **AI, Data, and Automation**, building systems ranging from computer vision analytics to multilingual NLP tools and full MLOps/data pipelines.  
 My focus is always on **efficiency, clarity, and real-world impact**.
@@ -35,7 +35,7 @@ My focus is always on **efficiency, clarity, and real-world impact**.
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 - Vision analytics, real-time detection pipelines, and model optimization  
 - Multilingual NLP + RAG workflows  
 - Applied ML + MLOps (CI/CD, containerization, monitoring)  
@@ -43,13 +43,13 @@ My focus is always on **efficiency, clarity, and real-world impact**.
 
 ---
 
-## 📚 What I’m Learning
+## What I’m Learning
 - **AWS Cloud:** Storage, compute, ETL  
 - **Distributed Systems:** MPI, multiprocessing, scaling ML workloads  
 
 ---
 
-## 🤝 What I Like Collaborating On  
+## What I Like Collaborating On  
 - AI-powered automation  
 - End-to-end ML systems  
 - Data-heavy real-world use cases  
@@ -57,12 +57,12 @@ My focus is always on **efficiency, clarity, and real-world impact**.
 
 ---
 
-## 💬 Ask Me About  
+## Ask Me About  
 Machine learning, AI pipelines, CV, NLP, automation, Python, or anything tech you’re curious about.
 
 ---
 
-# 📂 Highlighted Projects
+# Highlighted Projects
 
 Here are some projects from my GitHub — **auto-updated** using GitHub API:
 
@@ -78,7 +78,7 @@ Here are some projects from my GitHub — **auto-updated** using GitHub API:
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ultimate144z&theme=radical&hide_border=true" />
