@@ -73,6 +73,11 @@ Here are some projects from my GitHub — **auto-updated** using GitHub API:
   <a href="https://github.com/ultimate144z">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimate144z&repo=Context-Aware-RAG-Agent&theme=radical" />
   </a>
+
+  <a href="https://github.com/ultimate144z/NewsLens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimate144z&repo=NewsLens&theme=radical" />
+  </a>
+
 </p>
 
 
