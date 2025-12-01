@@ -64,20 +64,20 @@ Machine learning, AI pipelines, CV, NLP, automation, Python, or anything tech yo
 
 # Highlighted Projects
 
-Here are some projects from my GitHub — **auto-updated** using GitHub API:
+Here are some projects from my GitHub — **auto-updated**:
 
 <p align="left">
-  <a href="https://github.com/ultimate144z">
+  <a href="https://github.com/ultimate144z/yolo-vision-analytics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimate144z&repo=yolo-vision-analytics&theme=radical" />
   </a>
-  <a href="https://github.com/ultimate144z">
+  
+  <a href="https://github.com/ultimate144z/Context-Aware-RAG-Agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimate144z&repo=Context-Aware-RAG-Agent&theme=radical" />
   </a>
 
   <a href="https://github.com/ultimate144z/NewsLens">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ultimate144z&repo=NewsLens&theme=radical" />
   </a>
-
 </p>
 
 
